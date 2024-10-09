@@ -1,13 +1,21 @@
-<h1 align="center">Hi there! 👋, I'm FAZIL N.K</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazil0018&label=Profile%20views&color=0e75b6&style=flat" alt="fazil0018" /> </p>
+**<h1>Hi there! 👋, I'm FAZIL N.K</h1>**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazil0018" alt="fazil0018" /></a> </p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- Web Development **HTML ,CSS , JavaScript(JS).**
+- 🔭 Love Flutter and working on it
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate with other developers
+- 🤔 I’m looking for help with Flutter and custom ROM development 
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 💬 Ask me about anything
+- 😄 Pronouns: The day I quit learning is the day I will stop breathing.
+- ⚡ Fun fact: I love to programming,but good at drawing
 
-- Programming Languages: **Java , c.**
+## Skills & Technologies ⛏️
 
-- Other Tools **Git ,GitHub ,Visal Studio Code(Vs Code).**
+- **Web Development**:-HTML ,CSS , JavaScript(JS).
+- **Programming Languages**:-Java , c.
+- **Other Tools**:-Git ,GitHub ,Visal Studio Code (Vs Code).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
